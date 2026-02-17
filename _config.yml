@@ -1,0 +1,14 @@
+title: PatientPath
+description: Your medical story, wherever you go.
+theme: minima
+
+minima:
+  nav_pages:
+    - index.md
+    - problem.md
+    - solution.md
+    - key-features.md
+    - market.md
+    - competitive-landscape.md
+    - challenges-mitigation.md
+    - references.md
