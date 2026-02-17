@@ -2,8 +2,7 @@ title: PatientPath
 description: Your medical story, wherever you go.
 theme: minima
 
-minima:
-  nav_pages:
+header_pages:
     - index.md
     - problem.md
     - solution.md
