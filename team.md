@@ -77,9 +77,9 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   <div class="team-card">
     <img src="assets/img/emily.jpg" alt="Emily Nowak" class="team-img">
     <h3 class="team-name">Emily Nowak</h3>
-    <div class="team-role">Role: ____</div>
+    <div class="team-role">Role: Documentation Specialist</div>
     <p class="team-bio">
-      Emily ...
+      Emily is a PatientPath team member responsible for documentation and creating process flow diagrams to clearly communicate system design and project goals.
     </p>
   </div>
 
