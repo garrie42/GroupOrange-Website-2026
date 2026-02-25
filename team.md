@@ -59,7 +59,7 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   <div class="team-card">
     <img src="assets/img/kaitlyn.jpg" alt="Kaitlyn Molaison" class="team-img">
     <h3 class="team-name">Kaitlyn Molaison</h3>
-    <div class="team-role">Role: ____</div>
+    <div class="team-role">Role: Project Manager</div>
     <p class="team-bio">
       Kaitlyn is the project manager of PatientPath, contributing to design, development, and documentation while helping guide the team’s overall vision and progress.
     </p>
