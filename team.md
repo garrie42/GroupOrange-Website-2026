@@ -86,9 +86,9 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   <div class="team-card">
     <img src="assets/img/grace.jpg" alt="Grace Wright" class="team-img">
     <h3 class="team-name">Grace Wright</h3>
-    <div class="team-role">Role: ____</div>
+    <div class="team-role">Front End Developer: ____</div>
     <p class="team-bio">
-      Grace ...
+      Grace is a PatientPath team member responsible for the front end development. She will contribute to the front end design of the website, and ensure that it is working properly for user's. 
     </p>
   </div>
 
