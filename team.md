@@ -113,9 +113,9 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   <div class="team-card">
     <img src="assets/img/darnell.jpg" alt="Darnell Barnes" class="team-img">
     <h3 class="team-name">Darnell Barnes</h3>
-    <div class="team-role">Role: ____</div>
+    <div class="team-role">Role: Full Stack Developer</div>
     <p class="team-bio">
-      Darnell ...
+      Darnell is a PatientPath team member who contributes to the frontend user interface and backend system functionality.
     </p>
   </div>
 
