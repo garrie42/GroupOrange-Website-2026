@@ -68,7 +68,7 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   <div class="team-card">
     <img src="assets/img/stephen.jpg" alt="Stephen Garrison" class="team-img">
     <h3 class="team-name">Stephen Garrison</h3>
-    <div class="team-role">Role: ____</div>
+    <div class="team-role">Role: Software Developer</div>
     <p class="team-bio">
       Stephen Garrison is a team member on PatientPath who contributes to system design, technical writing, and building clear project communication through the team website.
     </p>
