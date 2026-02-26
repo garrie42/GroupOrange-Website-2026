@@ -95,9 +95,9 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   <div class="team-card">
     <img src="assets/img/james.jpg" alt="James Woodson" class="team-img">
     <h3 class="team-name">James Woodson</h3>
-    <div class="team-role">Role: ____</div>
+    <div class="team-role">Role: Software Developer</div>
     <p class="team-bio">
-      James ...
+      James is a PatienPath team member who contributes to software design implementation as well as other backend tasks.
     </p>
   </div>
 
