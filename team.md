@@ -104,9 +104,9 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   <div class="team-card">
     <img src="assets/img/christopher.jpg" alt="Christopher DeHaven" class="team-img">
     <h3 class="team-name">Christopher DeHaven</h3>
-    <div class="team-role">Role: ____</div>
+    <div class="team-role">Role: Software Developer</div>
     <p class="team-bio">
-      Christopher ...
+      Christopher is a developer for PatientPath who contributes to software design implementation and improving functionality and efficiency within the system.
     </p>
   </div>
 
