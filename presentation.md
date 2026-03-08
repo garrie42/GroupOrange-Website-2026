@@ -13,7 +13,7 @@ This section contains the PatientPath elevator pitch and the current feasibility
 
 The slide below summarizes the core idea behind PatientPath and the value it provides to healthcare providers and patients.
 
-<img src="/assets/img/elevator-pitch.jpg" style="width:100%; max-width:900px; border-radius:10px;">
+<img src="assets/img/elevator-pitch.jpg" style="width:100%; max-width:900px; border-radius:10px;">
 
 ---
 
@@ -38,7 +38,7 @@ webkitallowfullscreen="true"></iframe>
 
 A downloadable PDF version of the feasibility presentation is available below.
 
-[Download the Feasibility Presentation (PDF)](/assets/docs/Feasability_Group_Orange_Standardized.pdf)
+[Download the Feasibility Presentation (PDF)](assets/docs/Feasability_Group_Orange_Standardized.pdf)
 
 ---
 
