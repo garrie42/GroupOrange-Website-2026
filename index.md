@@ -3,18 +3,34 @@ layout: page
 title: Home
 ---
 
-<div style="text-align:center; padding: 24px 12px 8px 12px;">
-  <h1 style="margin-bottom: 8px;">PatientPath</h1>
-  <p style="font-size: 1.2rem; margin-top: 0;"><strong>From Fax to Fast: Modernizing Medical Record Exchange</strong></p>
-  <p style="max-width: 850px; margin: 16px auto;">
-    PatientPath is a secure digital platform designed to replace outdated fax-based medical record exchange with faster,
-    more reliable, and more transparent sharing between healthcare providers. By improving the movement of referrals,
-    records, and patient information, PatientPath aims to reduce delays, lower administrative burden, and support better
-    coordinated care.
-  </p>
-</div>
+<div style="padding: 28px 18px 18px 18px; border:1px solid #dbe7f3; border-radius:18px; background:linear-gradient(180deg, #f8fbff 0%, #ffffff 100%); box-shadow:0 4px 18px rgba(0,0,0,.05); margin-bottom: 24px;">
 
----
+  <div style="text-align:center; max-width: 920px; margin: 0 auto;">
+    <p style="margin:0 0 8px 0; font-size:.95rem; letter-spacing:.04em; color:#4b5563;">
+      Team Orange · Old Dominion University · CS 410
+    </p>
+
+    <h1 style="margin: 0 0 10px 0; font-size: 3rem; line-height:1.05;">PatientPath</h1>
+
+    <p style="font-size: 1.35rem; margin: 0 0 14px 0; color:#1f2937;">
+      <strong>“From Fax to Fast: Modernizing Medical Record Exchange”</strong>
+    </p>
+
+    <p style="max-width: 860px; margin: 0 auto 18px auto; font-size:1.05rem; line-height:1.6; color:#374151;">
+      PatientPath is a secure digital platform designed to replace outdated fax-based medical record exchange with faster,
+      more reliable, and more transparent sharing between healthcare providers. By improving the movement of referrals,
+      records, and patient information, PatientPath aims to reduce delays, lower administrative burden, and support better
+      coordinated care.
+    </p>
+
+    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top: 10px;">
+      <a href="{{ '/solution.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">Explore the Solution</a>
+      <a href="{{ '/presentation.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid #cbd5e1; background:#ffffff; color:#1f2937; padding:10px 16px; border-radius:999px; font-weight:600;">View Presentation</a>
+      <a href="{{ '/deliverables.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid #cbd5e1; background:#ffffff; color:#1f2937; padding:10px 16px; border-radius:999px; font-weight:600;">See Deliverables</a>
+    </div>
+  </div>
+
+</div>
 
 ## Project Overview
 
@@ -27,28 +43,28 @@ Rather than functioning as a full electronic health record system, PatientPath f
 
 <div style="margin-top: 18px; display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:16px;">
 
-  <div style="border:1px solid #dbe7f3; border-radius:14px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:14px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Problem</h3>
     <p>Fax-based workflows remain slow, error-prone, and difficult to track across healthcare organizations.</p>
-    <p><a href="{{ '/problem.html' | relative_url }}">Explore the problem →</a></p>
+    <p><a href="{{ '/problem.html' | relative_url }}"><strong>Explore the Problem →</strong></a></p>
   </div>
 
-  <div style="border:1px solid #dbe7f3; border-radius:14px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:14px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Solution</h3>
     <p>PatientPath provides secure digital sharing, referral support, and interoperability-focused design.</p>
-    <p><a href="{{ '/solution.html' | relative_url }}">Explore the solution →</a></p>
+    <p><a href="{{ '/solution.html' | relative_url }}"><strong>Explore the Solution →</strong></a></p>
   </div>
 
-  <div style="border:1px solid #dbe7f3; border-radius:14px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:14px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Key Features</h3>
     <p>Encryption, audit trails, role-based access, interoperability support, and workflow visibility.</p>
-    <p><a href="{{ '/key-features.html' | relative_url }}">View key features →</a></p>
+    <p><a href="{{ '/key-features.html' | relative_url }}"><strong>View Key Features →</strong></a></p>
   </div>
 
-  <div style="border:1px solid #dbe7f3; border-radius:14px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:14px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Presentations</h3>
     <p>Review the elevator pitch and feasibility presentation materials.</p>
-    <p><a href="{{ '/presentation.html' | relative_url }}">View presentations →</a></p>
+    <p><a href="{{ '/presentation.html' | relative_url }}"><strong>View Presentations →</strong></a></p>
   </div>
 
 </div>
@@ -64,7 +80,7 @@ providers and patients.
 
 PatientPath is built around the idea that patients should not be forced to carry the burden of fragmented healthcare communication.
 
-<p><a href="{{ '/problem.html' | relative_url }}"><strong>Read the full problem analysis →</strong></a></p>
+<p><a href="{{ '/problem.html' | relative_url }}"><strong>Read the Full Problem Analysis →</strong></a></p>
 
 ---
 
@@ -72,32 +88,32 @@ PatientPath is built around the idea that patients should not be forced to carry
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:16px;">
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">Inefficient Transfers</h3>
     <p>Records can be delayed, misplaced, or transmitted with missing or illegible pages.</p>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">Disconnected Systems</h3>
     <p>Healthcare systems often lack seamless interoperability across providers and organizations.</p>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">Privacy & Security Risk</h3>
     <p>Outdated workflows can expose sensitive patient information to avoidable security and compliance risks.</p>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">Poor Scalability</h3>
     <p>Legacy communication methods do not scale well across large networks or growing organizations.</p>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">Usability Issues</h3>
     <p>Cluttered workflows and manual handoffs create friction for staff already working under time pressure.</p>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">Connectivity Constraints</h3>
     <p>Some environments, especially rural or under-resourced facilities, need resilience during limited connectivity.</p>
   </div>
@@ -115,7 +131,7 @@ supporting efficient communication while improving visibility, accountability, a
 The platform emphasizes practical healthcare workflow improvement rather than replacing every existing system.
 Its purpose is to modernize one of the most persistent pain points in healthcare communication: moving patient information quickly and safely.
 
-<p><a href="{{ '/solution.html' | relative_url }}"><strong>Read the full solution overview →</strong></a></p>
+<p><a href="{{ '/solution.html' | relative_url }}"><strong>Read the Full Solution Overview →</strong></a></p>
 
 ---
 
@@ -161,17 +177,17 @@ Its purpose is to modernize one of the most persistent pain points in healthcare
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:16px;">
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">Customers</h3>
     <p>Hospitals, private practices, specialty clinics, and healthcare networks seeking a better way to exchange patient records.</p>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">End-Users</h3>
     <p>Providers, office staff, referral coordinators, administrators, and patients interacting with transferred medical information.</p>
   </div>
 
-  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px;">
+  <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; background:#ffffff;">
     <h3 style="margin-top:0;">Stakeholders</h3>
     <p>Healthcare organizations, compliance teams, IT staff, clinical staff, and patients who depend on secure and timely access to records.</p>
   </div>
@@ -184,40 +200,40 @@ Its purpose is to modernize one of the most persistent pain points in healthcare
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:16px;">
 
-  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Team</h3>
     <p>Meet the Group Orange team and view member roles and bios.</p>
-    <p><a href="{{ '/team.html' | relative_url }}">Go to Team →</a></p>
+    <p><a href="{{ '/team.html' | relative_url }}"><strong>Go to Team →</strong></a></p>
   </div>
 
-  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Market</h3>
     <p>Review the market context, customer space, and industry relevance.</p>
-    <p><a href="{{ '/market.html' | relative_url }}">Go to Market →</a></p>
+    <p><a href="{{ '/market.html' | relative_url }}"><strong>Go to Market →</strong></a></p>
   </div>
 
-  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Competitive Landscape</h3>
     <p>Compare PatientPath with current alternatives and competing approaches.</p>
-    <p><a href="{{ '/competitive-landscape.html' | relative_url }}">Go to Competitive Landscape →</a></p>
+    <p><a href="{{ '/competitive-landscape.html' | relative_url }}"><strong>Go to Competitive Landscape →</strong></a></p>
   </div>
 
-  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Challenges & Mitigation</h3>
     <p>See project risks, constraints, and mitigation strategies.</p>
-    <p><a href="{{ '/challenges-mitigation.html' | relative_url }}">Go to Challenges & Mitigation →</a></p>
+    <p><a href="{{ '/challenges-mitigation.html' | relative_url }}"><strong>Go to Challenges & Mitigation →</strong></a></p>
   </div>
 
-  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">References</h3>
     <p>Review cited sources and supporting project references.</p>
-    <p><a href="{{ '/references.html' | relative_url }}">Go to References →</a></p>
+    <p><a href="{{ '/references.html' | relative_url }}"><strong>Go to References →</strong></a></p>
   </div>
 
-  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff;">
+  <div style="border:1px solid #dbe7f3; border-radius:12px; padding:16px; background:#f8fbff; box-shadow:0 1px 2px rgba(0,0,0,.04);">
     <h3 style="margin-top:0;">Glossary</h3>
     <p>Find definitions for project terminology, acronyms, and technical language.</p>
-    <p><a href="{{ '/glossary.html' | relative_url }}">Go to Glossary →</a></p>
+    <p><a href="{{ '/glossary.html' | relative_url }}"><strong>Go to Glossary →</strong></a></p>
   </div>
 
 </div>
@@ -225,6 +241,8 @@ Its purpose is to modernize one of the most persistent pain points in healthcare
 ---
 
 ## External Links
+
+For more information about the university and the computer science program associated with this project:
 
 - [Old Dominion University](https://www.odu.edu)
 - [ODU Computer Science Department](https://www.cs.odu.edu)
