@@ -35,6 +35,7 @@ To embed the Google Slides version:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnzFveXBWOte_nMiBKtEffyIFOos1UBShOAH3d1DO86008mi_rgP_PbM7n7-7NIQ/pubembed?start=false&loop=false&delayms=3000"
+style="position:absolute; top:0; left:0; width:100%; height:100%;"
 frameborder="0"
 allowfullscreen="true"
 mozallowfullscreen="true"
