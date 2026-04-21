@@ -107,9 +107,15 @@ The database schema defines the structure of the PatientPath data layer, includi
 
 ### Algorithms
 
-The algorithms deliverable captures the core logic flows within PatientPath, including CRUD operations across system entities and the sequence of steps that drive key workflows such as referral creation, record upload, consent management, and audit logging.
+The algorithms deliverable captures seven core logic flows within PatientPath, including CRUD operations and the step-by-step sequences that drive key workflows such as referral creation, record upload, consent management, access control, and audit logging.
 
-<img src="assets/img/algorithms.png" style="width:100%; max-width:900px;">
+<img src="assets/img/algorithms-1.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/algorithms-2.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/algorithms-3.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/algorithms-4.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/algorithms-5.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/algorithms-6.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/algorithms-7.png" style="width:100%; max-width:900px;">
 
 ---
 
@@ -136,7 +142,8 @@ The UI/UX mockups illustrate the intended user experience for PatientPath's prim
 
 The sprint plan lays out the development roadmap for PatientPath across multiple sprints. Each sprint delivers a working feature by combining UI, logic, and data components together rather than isolating them by layer.
 
-<img src="assets/img/sprint-plan.png" style="width:100%; max-width:1100px;">
+<img src="assets/img/sprint-plan-1.png" style="width:100%; max-width:1100px; margin-bottom: 12px;">
+<img src="assets/img/sprint-plan-2.png" style="width:100%; max-width:1100px;">
 
 ---
 
@@ -150,6 +157,11 @@ The external interface APIs table documents each third-party or system-level API
 
 ### Development Tools & Dependencies
 
-This deliverable lists the frameworks, libraries, databases, and supporting tools used to develop PatientPath, along with the role each plays in the overall system.
+This deliverable lists the frameworks, libraries, databases, and supporting tools used to develop PatientPath, along with the role each plays in the overall system. Due to its size, the breakdown is presented across six sections.
 
-<img src="assets/img/dev-tools.png" style="width:100%; max-width:900px;">
+<img src="assets/img/dev-tools-1.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/dev-tools-2.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/dev-tools-3.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/dev-tools-4.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/dev-tools-5.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
+<img src="assets/img/dev-tools-6.png" style="width:100%; max-width:900px;">
