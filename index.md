@@ -3,20 +3,20 @@ layout: page
 title: Home
 ---
 
-<div style="padding: 28px 18px 18px 18px; border:1px solid #dbe7f3; border-radius:18px; background:linear-gradient(180deg, #f8fbff 0%, #ffffff 100%); box-shadow:0 4px 18px rgba(0,0,0,.05); margin-bottom: 24px;">
+<div style="position: relative; padding: 60px 30px 50px 30px; border-radius:18px; box-shadow:0 4px 18px rgba(0,0,0,.08); margin-bottom: 24px; background-image: linear-gradient(rgba(15, 23, 42, 0.55), rgba(15, 23, 42, 0.65)), url('{{ '/assets/img/hero-bg.jpg' | relative_url }}'); background-size: cover; background-position: center; color: #ffffff; min-height: 380px;">
 
   <div style="text-align:center; max-width: 920px; margin: 0 auto;">
-    <p style="margin:0 0 8px 0; font-size:.95rem; letter-spacing:.04em; color:#4b5563;">
+    <p style="margin:0 0 8px 0; font-size:.95rem; letter-spacing:.04em; color:#e2e8f0;">
       Team Orange · Old Dominion University · CS 410
     </p>
 
-    <h1 style="margin: 0 0 10px 0; font-size: 3rem; line-height:1.05;">PatientPath</h1>
+    <h1 style="margin: 0 0 10px 0; font-size: 3.2rem; line-height:1.05; color:#ffffff;">PatientPath</h1>
 
-    <p style="font-size: 1.35rem; margin: 0 0 14px 0; color:#1f2937;">
-      <strong>“From Fax to Fast: Modernizing Medical Record Exchange”</strong>
+    <p style="font-size: 1.4rem; margin: 0 0 14px 0; color:#f1f5f9;">
+      <strong>"From Fax to Fast: Modernizing Medical Record Exchange"</strong>
     </p>
 
-    <p style="max-width: 860px; margin: 0 auto 18px auto; font-size:1.05rem; line-height:1.6; color:#374151;">
+    <p style="max-width: 860px; margin: 0 auto 22px auto; font-size:1.05rem; line-height:1.6; color:#e2e8f0;">
       PatientPath is a secure digital platform designed to replace outdated fax-based medical record exchange with faster,
       more reliable, and more transparent sharing between healthcare providers. By improving the movement of referrals,
       records, and patient information, PatientPath aims to reduce delays, lower administrative burden, and support better
@@ -24,9 +24,9 @@ title: Home
     </p>
 
     <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top: 10px;">
-      <a href="{{ '/solution.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">Explore the Solution</a>
-      <a href="{{ '/presentation.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid #cbd5e1; background:#ffffff; color:#1f2937; padding:10px 16px; border-radius:999px; font-weight:600;">View Presentation</a>
-      <a href="{{ '/deliverables.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid #cbd5e1; background:#ffffff; color:#1f2937; padding:10px 16px; border-radius:999px; font-weight:600;">See Deliverables</a>
+      <a href="{{ '/solution.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid #14b8a6; background:#14b8a6; color:#ffffff; padding:11px 18px; border-radius:999px; font-weight:600;">Explore the Solution</a>
+      <a href="{{ '/presentation.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid rgba(255,255,255,.6); background:rgba(255,255,255,.1); color:#ffffff; padding:11px 18px; border-radius:999px; font-weight:600; backdrop-filter: blur(4px);">View Presentation</a>
+      <a href="{{ '/deliverables.html' | relative_url }}" style="display:inline-block; text-decoration:none; border:1px solid rgba(255,255,255,.6); background:rgba(255,255,255,.1); color:#ffffff; padding:11px 18px; border-radius:999px; font-weight:600; backdrop-filter: blur(4px);">See Deliverables</a>
     </div>
   </div>
 
