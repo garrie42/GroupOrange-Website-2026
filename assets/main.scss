@@ -1,0 +1,123 @@
+---
+# This front matter (the dashes above) tells Jekyll to process this file as SCSS.
+# Do not remove it.
+---
+
+@import "minima";
+
+/* ============================================================
+   PatientPath — Custom site styling
+   Adds warmth, color, and modern visual depth without
+   interfering with inline-styled cards on individual pages.
+   ============================================================ */
+
+/* ---------- Soft gradient page background ---------- */
+/* Replaces the default flat white with a subtle vertical wash. */
+body {
+  background: linear-gradient(180deg, #eaf3fb 0%, #f5faff 40%, #ffffff 100%) !important;
+  background-attachment: fixed;
+  position: relative;
+  min-height: 100vh;
+}
+
+/* ---------- Decorative blurred gradient orbs ---------- */
+/* Two large soft-colored circles fixed behind the content.
+   They add depth and color without affecting readability. */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(90px);
+  opacity: 0.5;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Teal orb, top-left */
+body::before {
+  top: -180px;
+  left: -180px;
+  width: 520px;
+  height: 520px;
+  background: radial-gradient(circle, #5eead4 0%, transparent 70%);
+  animation: float-slow 18s ease-in-out infinite;
+}
+
+/* Blue orb, bottom-right */
+body::after {
+  bottom: -200px;
+  right: -220px;
+  width: 620px;
+  height: 620px;
+  background: radial-gradient(circle, #93c5fd 0%, transparent 70%);
+  animation: float-slow 22s ease-in-out infinite reverse;
+}
+
+/* Slow drifting motion so the orbs feel alive without being distracting */
+@keyframes float-slow {
+  0%   { transform: translate(0, 0) scale(1); }
+  50%  { transform: translate(30px, -20px) scale(1.05); }
+  100% { transform: translate(0, 0) scale(1); }
+}
+
+/* Make sure all main content sits above the decorative orbs */
+.page-content,
+.site-header,
+.site-footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* ---------- Site header with accent line ---------- */
+.site-header {
+  border-top: 4px solid #14b8a6 !important;
+  background: rgba(255, 255, 255, 0.88) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 1px 12px rgba(15, 118, 110, 0.06);
+}
+
+.site-title,
+.site-title:visited {
+  color: #0f766e !important;
+  font-weight: 700;
+}
+
+/* Nav link hover effect */
+.site-nav .page-link {
+  transition: color 0.15s ease;
+}
+
+.site-nav .page-link:hover {
+  color: #14b8a6 !important;
+  text-decoration: none;
+}
+
+/* ---------- Section headings get colored accent bar ---------- */
+.page-content h2 {
+  position: relative;
+  padding-left: 14px;
+  border-left: 4px solid #14b8a6;
+  margin-top: 1.8em;
+}
+
+/* Sub-headings get a softer accent */
+.page-content h3 {
+  color: #0f766e;
+}
+
+/* ---------- Footer with subtle teal tint ---------- */
+.site-footer {
+  background: linear-gradient(180deg, rgba(15, 118, 110, 0.03) 0%, rgba(15, 118, 110, 0.07) 100%) !important;
+  border-top: 1px solid #dbe7f3 !important;
+}
+
+/* ---------- Reduce motion for users who prefer it ---------- */
+/* Accessibility: respect users who have reduced-motion enabled */
+@media (prefers-reduced-motion: reduce) {
+  body::before,
+  body::after {
+    animation: none;
+  }
+}
