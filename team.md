@@ -120,7 +120,7 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   </div>
 
   <div class="team-card">
-    <img src="assets/img/jackie.jpg" alt="Jacqueline Simmons" class="team-img">
+    <img src="assets/img/jackie.png" alt="Jacqueline Simmons" class="team-img">
     <h3 class="team-name">Jacqueline Simmons</h3>
     <div class="team-role">Role: Front End Developer</div>
     <p class="team-bio">
@@ -129,7 +129,7 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
   </div>
 
    <div class="team-card">
-    <img src="assets/img/mia.jpg" alt="Mia Lai " class="team-img">
+    <img src="assets/img/mia.png" alt="Mia Lai " class="team-img">
     <h3 class="team-name">Mia Lai</h3>
     <div class="team-role">Role: Front End Developer</div>
     <p class="team-bio">
