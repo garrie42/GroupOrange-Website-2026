@@ -119,4 +119,22 @@ PatientPath is developed by a multidisciplinary team focused on improving secure
     </p>
   </div>
 
+  <div class="team-card">
+    <img src="assets/img/jackie.jpg" alt="Jacqueline Simmons" class="team-img">
+    <h3 class="team-name">Jacqueline Simmons</h3>
+    <div class="team-role">Role: Front End Developer</div>
+    <p class="team-bio">
+       Jackie is a PatientPath team member interested in front-end development, focusing on creating clean, user-friendly interfaces and making the application visually appealing and easy to navigate. 
+    </p>
+  </div>
+
+   <div class="team-card">
+    <img src="assets/img/mia.jpg" alt="Mia Lai " class="team-img">
+    <h3 class="team-name">Mia Lai</h3>
+    <div class="team-role">Role: Front End Developer</div>
+    <p class="team-bio">
+      Mia is a PatientPath team member interested in front-end development. She will be integrating front end design principles for PatientPath.  
+    </p>
+  </div>
+
 </div>
