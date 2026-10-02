@@ -153,11 +153,6 @@ frameborder="0"></iframe>
 
 ### Christopher DeHaven — Software Developer
 
-<!-- When Christopher's submission is ready:
-  1. Upload Lab1_Christopher_DeHaven.pdf to assets/docs/
-  2. Delete the "Submission Pending" card below
-  3. Uncomment the iframe + download block
-
 <div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
 <iframe src="{{ '/assets/docs/Lab1_Christopher_DeHaven.pdf' | relative_url }}"
 style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
@@ -169,12 +164,6 @@ frameborder="0"></iframe>
     Download Christopher's Lab 1 Submission (PDF)
   </a>
 </p>
--->
-
-<div style="border:1px dashed #cbd5e1; border-radius:12px; padding:18px; background:#f9fafb; max-width: 900px; margin: 0 auto; text-align:center; color:#6b7280;">
-  <strong>Submission Pending</strong><br>
-  Christopher's Lab 1 submission will be added to this section once finalized.
-</div>
 
 ---
 
