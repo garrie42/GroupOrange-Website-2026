@@ -123,10 +123,7 @@ frameborder="0"></iframe>
 </p>
 
 
-<div style="border:1px dashed #cbd5e1; border-radius:12px; padding:18px; background:#f9fafb; max-width: 900px; margin: 0 auto; text-align:center; color:#6b7280;">
-  <strong>Submission Pending</strong><br>
-  Grace's Lab 1 submission will be added to this section once finalized.
-</div>
+
 
 ---
 
