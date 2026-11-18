@@ -279,10 +279,6 @@ Upload Lab2_Stephen_Garrison.pdf to assets/docs/, then uncomment this block.
 
 ### Emily Nowak — Documentation Specialist
 
-**Submission pending.**
-
-<!--
-Upload Lab2_Emily_Nowak.pdf to assets/docs/, then uncomment this block.
 
 <div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
   <iframe src="{{ '/assets/docs/Lab2_Emily_Nowak.pdf' | relative_url }}"
@@ -296,7 +292,7 @@ Upload Lab2_Emily_Nowak.pdf to assets/docs/, then uncomment this block.
     Download Emily's Lab 2 Submission (PDF)
   </a>
 </p>
--->
+
 
 ---
 
