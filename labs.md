@@ -216,3 +216,242 @@ frameborder="0"></iframe>
     Download Mia's Lab 1 Submission (PDF)
   </a>
 </p>
+
+
+
+---
+
+## Lab 2 Sections 1 & 2 Individual Submissions
+
+Each team member independently wrote Sections 1 and 2 of the Lab 2 technical paper. The submissions below reflect each member’s writing and technical analysis of PatientPath.
+
+<p style="opacity:.8; font-style:italic; max-width: 860px; margin-bottom: 24px;">
+Individual submissions are added below as team members complete them.
+</p>
+
+---
+
+### Kaitlyn Molaison — Project Manager
+
+**Submission pending.**
+
+<!--
+Upload Lab2_Kaitlyn_Molaison.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Kaitlyn_Molaison.pdf' | relative_url }}"
+    title="Kaitlyn Molaison's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Kaitlyn_Molaison.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Kaitlyn's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+---
+
+### Stephen Garrison — Software Developer
+
+**Submission pending.**
+
+<!--
+Upload Lab2_Stephen_Garrison.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Stephen_Garrison.pdf' | relative_url }}"
+    title="Stephen Garrison's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Stephen_Garrison.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Stephen's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+---
+
+### Emily Nowak — Documentation Specialist
+
+**Submission pending.**
+
+<!--
+Upload Lab2_Emily_Nowak.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Emily_Nowak.pdf' | relative_url }}"
+    title="Emily Nowak's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Emily_Nowak.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Emily's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+---
+
+### Grace Wright — Front End Developer
+
+**Submission pending.**
+
+<!--
+Upload Lab2_Grace_Wright.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Grace_Wright.pdf' | relative_url }}"
+    title="Grace Wright's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Grace_Wright.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Grace's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+---
+
+### James Woodson — Software Developer
+
+**Submission pending.**
+
+<!--
+Upload Lab2_James_Woodson.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_James_Woodson.pdf' | relative_url }}"
+    title="James Woodson's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_James_Woodson.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download James's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+---
+
+### Christopher DeHaven — Software Developer
+
+**Submission pending.**
+
+<!--
+Upload Lab2_Christopher_DeHaven.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Christopher_DeHaven.pdf' | relative_url }}"
+    title="Christopher DeHaven's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Christopher_DeHaven.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Christopher's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+---
+
+### Darnell Barnes — Full Stack Developer
+
+**Submission pending.**
+
+<!--
+Upload Lab2_Darnell_Barnes.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Darnell_Barnes.pdf' | relative_url }}"
+    title="Darnell Barnes's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Darnell_Barnes.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Darnell's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+---
+
+### Jacqueline Simmons — Front End Developer
+
+**Submission pending.**
+
+<!--
+Upload Lab2_Jacqueline_Simmons.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Jacqueline_Simmons.pdf' | relative_url }}"
+    title="Jacqueline Simmons's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Jacqueline_Simmons.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Jackie's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+---
+
+### Mia Lai — Front End Developer
+
+**Submission pending.**
+
+<!--
+Upload Lab2_Mia_Lai.pdf to assets/docs/, then uncomment this block.
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Mia_Lai.pdf' | relative_url }}"
+    title="Mia Lai's Lab 2 Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Mia_Lai.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Mia's Lab 2 Submission (PDF)
+  </a>
+</p>
+-->
+
+
+---
+
+## Lab 2 Section 3 Group Submission
+
+Section 3 of the Lab 2 descriptive paper reflects the team’s collaborative writing and analysis of PatientPath. The completed group submission will be posted below.
+
+
+<div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
+  <iframe src="{{ '/assets/docs/Lab2_Section3_Group_Submission.pdf' | relative_url }}"
+    title="Lab 2 Section 3 Group Submission"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:1px solid #dbe7f3; border-radius:10px;"
+    frameborder="0"></iframe>
+</div>
+<p style="text-align:center; margin-top: 14px;">
+  <a href="{{ '/assets/docs/Lab2_Section3_Group_Submission.pdf' | relative_url }}"
+     style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
+    Download Lab 2 Section 3 Group Submission (PDF)
+  </a>
