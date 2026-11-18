@@ -362,11 +362,6 @@ Upload Lab2_Christopher_DeHaven.pdf to assets/docs/, then uncomment this block.
 
 ### Darnell Barnes — Full Stack Developer
 
-**Submission pending.**
-
-<!--
-Upload Lab2_Darnell_Barnes.pdf to assets/docs/, then uncomment this block.
-
 <div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
   <iframe src="{{ '/assets/docs/Lab2_Darnell_Barnes.pdf' | relative_url }}"
     title="Darnell Barnes's Lab 2 Submission"
@@ -379,7 +374,6 @@ Upload Lab2_Darnell_Barnes.pdf to assets/docs/, then uncomment this block.
     Download Darnell's Lab 2 Submission (PDF)
   </a>
 </p>
--->
 
 ---
 
