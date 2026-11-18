@@ -233,11 +233,6 @@ Individual submissions are added below as team members complete them.
 
 ### Kaitlyn Molaison — Project Manager
 
-**Submission pending.**
-
-<!--
-Upload Lab2_Kaitlyn_Molaison.pdf to assets/docs/, then uncomment this block.
-
 <div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
   <iframe src="{{ '/assets/docs/Lab2_Kaitlyn_Molaison.pdf' | relative_url }}"
     title="Kaitlyn Molaison's Lab 2 Submission"
@@ -250,7 +245,7 @@ Upload Lab2_Kaitlyn_Molaison.pdf to assets/docs/, then uncomment this block.
     Download Kaitlyn's Lab 2 Submission (PDF)
   </a>
 </p>
--->
+
 
 ---
 
