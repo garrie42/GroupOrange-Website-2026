@@ -455,3 +455,15 @@ Section 3 of the Lab 2 descriptive paper reflects the team’s collaborative wri
      style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
     Download Lab 2 Section 3 Group Submission (PDF)
   </a>
+
+---
+
+## Lab 3 - Prototype Test Plan
+
+Lab 3 establishes the initial structure of the PatientPath 
+Prototype User Manual using the GitHub Wiki. This includes 
+documentation of system processes, user interfaces, tasks, 
+and supporting resources. It serves as the foundation for 
+the comprehensive User Manual completed in Lab 4.
+
+[View Lab 3 - PatientPath Prototype User Manual](https://github.com/garrie42/GroupOrange-Website-2026/wiki)
