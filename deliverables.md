@@ -5,8 +5,8 @@ title: Deliverables
 
 # Project Deliverables
 
-This section presents the key artifacts created during the PatientPath project across both the Feasibility and Design phases.
-Each deliverable provides a visual representation of a different aspect of the system design, workflow improvement, project structure, or risk analysis.
+This section presents the key artifacts created during the PatientPath project's Feasibility, Design, and final presentation stages.
+These deliverables document the problem, proposed solution, system design, development plan, and prototype progress.
 
 ---
 
@@ -165,3 +165,30 @@ This deliverable lists the frameworks, libraries, databases, and supporting tool
 <img src="assets/img/dev-tools-4.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
 <img src="assets/img/dev-tools-5.png" style="width:100%; max-width:900px; margin-bottom: 12px;">
 <img src="assets/img/dev-tools-6.png" style="width:100%; max-width:900px;">
+
+---
+
+## Final Presentation Deliverables
+
+### Final Project Poster
+
+The final poster summarizes the problem PatientPath addresses, the project's unique contribution, system architecture, and referral workflow.
+It includes screenshots from the working prototype and identifies implemented features, partial functionality, and remaining development work.
+
+<iframe
+  src="{{ '/assets/docs/PatientPath_Final_Poster.pdf' | relative_url }}"
+  title="PatientPath Final Project Poster"
+  style="display:block; width:100%; max-width:900px; aspect-ratio:2 / 3; border:1px solid #dbe7f3; border-radius:8px;">
+</iframe>
+
+<p>
+  <a href="{{ '/assets/docs/PatientPath_Final_Poster.pdf' | relative_url }}"
+     download>
+    Download PDF
+  </a>
+  &nbsp; · &nbsp;
+  <a href="{{ '/assets/docs/PatientPath_Final_Poster.pptx' | relative_url }}"
+     download>
+    Download PowerPoint
+  </a>
+</p>
