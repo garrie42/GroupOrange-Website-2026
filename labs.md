@@ -381,10 +381,6 @@ Upload Lab2_Grace_Wright.pdf to assets/docs/, then uncomment this block.
 
 ### Mia Lai — Front End Developer
 
-**Submission pending.**
-
-<!--
-Upload Lab2_Mia_Lai.pdf to assets/docs/, then uncomment this block.
 
 <div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
   <iframe src="{{ '/assets/docs/Lab2_Mia_Lai.pdf' | relative_url }}"
@@ -398,7 +394,7 @@ Upload Lab2_Mia_Lai.pdf to assets/docs/, then uncomment this block.
     Download Mia's Lab 2 Submission (PDF)
   </a>
 </p>
--->
+
 
 
 ---
