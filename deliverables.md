@@ -175,20 +175,20 @@ This deliverable lists the frameworks, libraries, databases, and supporting tool
 The final poster summarizes the problem PatientPath addresses, the project's unique contribution, system architecture, and referral workflow.
 It includes screenshots from the working prototype and identifies implemented features, partial functionality, and remaining development work.
 
-<iframe
-  src="{{ '/assets/docs/PatientPath_Final_Poster.pdf' | relative_url }}"
-  title="PatientPath Final Project Poster"
-  style="display:block; width:100%; max-width:900px; aspect-ratio:2 / 3; border:1px solid #dbe7f3; border-radius:8px;">
-</iframe>
+<div style="width:100%; max-width:900px; margin:0 auto;">
+  <iframe
+    src="{{ '/assets/docs/PatientPath_Final_Poster.pdf' | relative_url }}#view=Fit&amp;navpanes=0"
+    title="PatientPath Final Project Poster"
+    style="display:block; width:100%; height:85vh; border:1px solid #dbe7f3; border-radius:10px; box-sizing:border-box;">
+  </iframe>
 
-<p>
-  <a href="{{ '/assets/docs/PatientPath_Final_Poster.pdf' | relative_url }}"
-     download>
-    Download PDF
-  </a>
-  &nbsp; · &nbsp;
-  <a href="{{ '/assets/docs/PatientPath_Final_Poster.pptx' | relative_url }}"
-     download>
-    Download PowerPoint
-  </a>
-</p>
+  <p style="text-align:center; margin-top:12px;">
+    <a href="{{ '/assets/docs/PatientPath_Final_Poster.pdf' | relative_url }}" download>
+      Download Poster (PDF)
+    </a>
+    &nbsp; | &nbsp;
+    <a href="{{ '/assets/docs/PatientPath_Final_Poster.pptx' | relative_url }}" download>
+      Download Poster (PowerPoint)
+    </a>
+  </p>
+</div>
