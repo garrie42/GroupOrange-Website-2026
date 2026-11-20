@@ -288,10 +288,6 @@ Individual submissions are added below as team members complete them.
 
 ### Grace Wright — Front End Developer
 
-**Submission pending.**
-
-<!--
-Upload Lab2_Grace_Wright.pdf to assets/docs/, then uncomment this block.
 
 <div style="position: relative; padding-bottom: 129%; height: 0; overflow: hidden; max-width: 900px; margin: 0 auto;">
   <iframe src="{{ '/assets/docs/Lab2_Grace_Wright.pdf' | relative_url }}"
@@ -305,7 +301,7 @@ Upload Lab2_Grace_Wright.pdf to assets/docs/, then uncomment this block.
     Download Grace's Lab 2 Submission (PDF)
   </a>
 </p>
--->
+
 
 ---
 
