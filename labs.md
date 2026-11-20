@@ -431,6 +431,8 @@ Section 3 of the Lab 2 descriptive paper reflects the team’s collaborative wri
      style="display:inline-block; text-decoration:none; border:1px solid #0f766e; background:#0f766e; color:#ffffff; padding:10px 16px; border-radius:999px; font-weight:600;">
     Download Lab 2 Section 3 Group Submission (PDF)
   </a>
+</p>
+
 
 ---
 
